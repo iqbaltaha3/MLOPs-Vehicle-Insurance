@@ -1,2 +1,26 @@
 passwords.txt
 mongoDB_demo.ipynb
+
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+notebook/
+
+# Build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Env
+.env
