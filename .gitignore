@@ -24,3 +24,7 @@ dist/
 
 # Env
 .env
+
+artifact/
+
+logs/
